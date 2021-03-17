@@ -1,0 +1,138 @@
+header{
+    background-color:#EAC926;
+    font-size: 12px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+#logo {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.search {
+    margin-top: 20px;
+    margin-left: 10px;
+    display: block;
+}
+
+.lupita {
+    font-size: 140%;
+    margin-left: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.burger {
+    color:white;
+    width: 100%;
+    text-align: center;
+}
+
+.burger-menu {
+    background-color: #0343A9;
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+body {
+    margin: 0px;
+}
+
+.titulares {
+    font-size: 24px;
+}
+
+.price {
+    font-size: 18px;
+}
+
+.descuento {
+    font-size: 16px;
+}
+
+.descripcion {
+    font-size: 16px;
+}
+
+.div {
+    color:#03264C;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    background-color: #ECECEC;
+    padding-bottom: 30px;
+}
+
+article {
+    background-color: #FFFFFF;
+    max-width: 90%;
+    margin-left: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+footer {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.icon {
+    color:#0D5ACA;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    font-size: 2em;
+}
+
+.titular-footer {
+    font-size: 20px;
+    font-weight: 590;
+    line-height: 25%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.parrafo-footer {
+    font-size: 12px;
+    font-weight: 200;
+}
+
+h5 {
+    text-align: left;
+    margin-bottom: 0px;
+    font-weight: 200;
+}
